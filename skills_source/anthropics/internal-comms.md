@@ -1,0 +1,18 @@
+{
+  "name": "SKILL.md",
+  "path": "skills/internal-comms/SKILL.md",
+  "sha": "56ea935b74f371bfeb4c7d3c19d5139df866e73b",
+  "size": 1511,
+  "url": "https://api.github.com/repos/anthropics/skills/contents/skills/internal-comms/SKILL.md?ref=main",
+  "html_url": "https://github.com/anthropics/skills/blob/main/skills/internal-comms/SKILL.md",
+  "git_url": "https://api.github.com/repos/anthropics/skills/git/blobs/56ea935b74f371bfeb4c7d3c19d5139df866e73b",
+  "download_url": "https://raw.githubusercontent.com/anthropics/skills/main/skills/internal-comms/SKILL.md",
+  "type": "file",
+  "content": "LS0tCm5hbWU6IGludGVybmFsLWNvbW1zCmRlc2NyaXB0aW9uOiBBIHNldCBv\nZiByZXNvdXJjZXMgdG8gaGVscCBtZSB3cml0ZSBhbGwga2luZHMgb2YgaW50\nZXJuYWwgY29tbXVuaWNhdGlvbnMsIHVzaW5nIHRoZSBmb3JtYXRzIHRoYXQg\nbXkgY29tcGFueSBsaWtlcyB0byB1c2UuIENsYXVkZSBzaG91bGQgdXNlIHRo\naXMgc2tpbGwgd2hlbmV2ZXIgYXNrZWQgdG8gd3JpdGUgc29tZSBzb3J0IG9m\nIGludGVybmFsIGNvbW11bmljYXRpb25zIChzdGF0dXMgcmVwb3J0cywgbGVh\nZGVyc2hpcCB1cGRhdGVzLCAzUCB1cGRhdGVzLCBjb21wYW55IG5ld3NsZXR0\nZXJzLCBGQVFzLCBpbmNpZGVudCByZXBvcnRzLCBwcm9qZWN0IHVwZGF0ZXMs\nIGV0Yy4pLgpsaWNlbnNlOiBDb21wbGV0ZSB0ZXJtcyBpbiBMSUNFTlNFLnR4\ndAotLS0KCiMjIFdoZW4gdG8gdXNlIHRoaXMgc2tpbGwKVG8gd3JpdGUgaW50\nZXJuYWwgY29tbXVuaWNhdGlvbnMsIHVzZSB0aGlzIHNraWxsIGZvcjoKLSAz\nUCB1cGRhdGVzIChQcm9ncmVzcywgUGxhbnMsIFByb2JsZW1zKQotIENvbXBh\nbnkgbmV3c2xldHRlcnMKLSBGQVEgcmVzcG9uc2VzCi0gU3RhdHVzIHJlcG9y\ndHMKLSBMZWFkZXJzaGlwIHVwZGF0ZXMKLSBQcm9qZWN0IHVwZGF0ZXMKLSBJ\nbmNpZGVudCByZXBvcnRzCgojIyBIb3cgdG8gdXNlIHRoaXMgc2tpbGwKClRv\nIHdyaXRlIGFueSBpbnRlcm5hbCBjb21tdW5pY2F0aW9uOgoKMS4gKipJZGVu\ndGlmeSB0aGUgY29tbXVuaWNhdGlvbiB0eXBlKiogZnJvbSB0aGUgcmVxdWVz\ndAoyLiAqKkxvYWQgdGhlIGFwcHJvcHJpYXRlIGd1aWRlbGluZSBmaWxlKiog\nZnJvbSB0aGUgYGV4YW1wbGVzL2AgZGlyZWN0b3J5OgogICAgLSBgZXhhbXBs\nZXMvM3AtdXBkYXRlcy5tZGAgLSBGb3IgUHJvZ3Jlc3MvUGxhbnMvUHJvYmxl\nbXMgdGVhbSB1cGRhdGVzCiAgICAtIGBleGFtcGxlcy9jb21wYW55LW5ld3Ns\nZXR0ZXIubWRgIC0gRm9yIGNvbXBhbnktd2lkZSBuZXdzbGV0dGVycwogICAg\nLSBgZXhhbXBsZXMvZmFxLWFuc3dlcnMubWRgIC0gRm9yIGFuc3dlcmluZyBm\ncmVxdWVudGx5IGFza2VkIHF1ZXN0aW9ucwogICAgLSBgZXhhbXBsZXMvZ2Vu\nZXJhbC1jb21tcy5tZGAgLSBGb3IgYW55dGhpbmcgZWxzZSB0aGF0IGRvZXNu\nJ3QgZXhwbGljaXRseSBtYXRjaCBvbmUgb2YgdGhlIGFib3ZlCjMuICoqRm9s\nbG93IHRoZSBzcGVjaWZpYyBpbnN0cnVjdGlvbnMqKiBpbiB0aGF0IGZpbGUg\nZm9yIGZvcm1hdHRpbmcsIHRvbmUsIGFuZCBjb250ZW50IGdhdGhlcmluZwoK\nSWYgdGhlIGNvbW11bmljYXRpb24gdHlwZSBkb2Vzbid0IG1hdGNoIGFueSBl\neGlzdGluZyBndWlkZWxpbmUsIGFzayBmb3IgY2xhcmlmaWNhdGlvbiBvciBt\nb3JlIGNvbnRleHQgYWJvdXQgdGhlIGRlc2lyZWQgZm9ybWF0LgoKIyMgS2V5\nd29yZHMKM1AgdXBkYXRlcywgY29tcGFueSBuZXdzbGV0dGVyLCBjb21wYW55\nIGNvbW1zLCB3ZWVrbHkgdXBkYXRlLCBmYXFzLCBjb21tb24gcXVlc3Rpb25z\nLCB1cGRhdGVzLCBpbnRlcm5hbCBjb21tcwo=\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/anthropics/skills/contents/skills/internal-comms/SKILL.md?ref=main",
+    "git": "https://api.github.com/repos/anthropics/skills/git/blobs/56ea935b74f371bfeb4c7d3c19d5139df866e73b",
+    "html": "https://github.com/anthropics/skills/blob/main/skills/internal-comms/SKILL.md"
+  }
+}
